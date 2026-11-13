@@ -83,7 +83,7 @@ magma/
 
 ## Roadmap
 
-- [ ] Event-node graph with semantic, temporal, causal, and entity edges
+- [x] Event-node graph with semantic, temporal, causal, and entity edges
 - [ ] Fast-path ingestion with vector and keyword indexes
 - [ ] LLM-based consolidation for causal and entity links
 - [ ] Intent-aware routing and temporal normalization
